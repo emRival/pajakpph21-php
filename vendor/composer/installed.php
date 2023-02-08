@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'pph21/calculate',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'hitung/pajak',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'db4796228940367c330300c88291d38a7203b964',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'pph21/calculate' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'hitung/pajak' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'db4796228940367c330300c88291d38a7203b964',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
